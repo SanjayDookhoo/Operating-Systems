@@ -1,0 +1,4 @@
+char name[20]="Sanjay"
+sprintf(str,"Hi There %s!",name); //Write a message to the shared memory segment
+
+sprintf is used for formatting a string and storing it into a char arr in this case str
